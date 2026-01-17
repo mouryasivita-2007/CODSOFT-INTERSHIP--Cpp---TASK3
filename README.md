@@ -23,7 +23,6 @@ Duration: January 2025 – February 2025
 2)Displays board after every move.
 3)Detects win patterns such as rows, columns, and diagonals.
 4)Handles invalid inputs during gameplay.
-
-Beginner-friendly and extendable.
+5)Beginner-friendly and extendable.
 
 
